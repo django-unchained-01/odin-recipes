@@ -12,6 +12,7 @@ This project is an HTML-based website that showcases a variety of traditional Tu
 
 - HTML
 - Git
+- CSS
 
 ## Demonstrated Skills
 

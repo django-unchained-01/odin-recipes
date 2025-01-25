@@ -1,0 +1,12 @@
+.main {
+    text-align: center;
+    background-color:rgb(184, 205, 255) ;
+    color: rgb(36, 36, 207);
+}
+p {
+    font-weight: bold;
+}
+body {
+    background-color: #F4F4F4;
+    color: #2C3E50;
+}
