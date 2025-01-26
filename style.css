@@ -10,3 +10,24 @@ body {
     background-color: #F4F4F4;
     color: #2C3E50;
 }
+.title {
+    padding: 18px;
+}
+.recipe {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 40px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:rgb(184, 205, 255)  ;
+}
+.description {
+    text-align: center;
+}
+.list {
+    width: 200px;
+    margin: 0 auto;
+    list-style-type: none;
+}
+
