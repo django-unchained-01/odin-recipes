@@ -22,3 +22,4 @@ This project is an HTML-based website that showcases a variety of traditional Tu
     - Gaining confidence in dealing with HTML and Git
     - Pushing my first project on github
 
+[Live Demo](https://django-unchained-01.github.io/odin-recipes/)
